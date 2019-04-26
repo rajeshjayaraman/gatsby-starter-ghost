@@ -1,4 +1,4 @@
-# Gastby Starter Ghost
+# Gastby front end to rajeshj.glitch.me
 
 A starter template to build lightning fast websites with [Ghost](https://ghost.org) & [Gatsby](https://gatsbyjs.org)
 
